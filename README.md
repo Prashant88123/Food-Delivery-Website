@@ -104,10 +104,8 @@ VITE v4.0  ready in 300ms
 
 📸 Example Screenshot
 
-```
 <img width="837" height="188" alt="image" src="https://github.com/user-attachments/assets/9ab8db6d-5ba9-49e4-aa1b-136a8b075c0f" />
 
-```
 
 ---
 
@@ -130,10 +128,8 @@ MongoDB connected successfully
 
 📸 Example Screenshot
 
-```
 <img width="1027" height="289" alt="image" src="https://github.com/user-attachments/assets/e83c4c9e-fcba-4c80-9302-c37a4792d197" />
 
-```
 
 ---
 
@@ -157,10 +153,8 @@ VITE v4.0 ready
 
 📸 Example Screenshot
 
-```
 <img width="1033" height="295" alt="image" src="https://github.com/user-attachments/assets/cbc0df6c-5c3e-4560-8223-11aef20eb3c8" />
 
-```
 
 ---
 
