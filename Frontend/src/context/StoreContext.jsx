@@ -59,7 +59,7 @@ const StoreContextProivder= (props)=>{
             }
         }
         loadData();
-    })
+    }, [])
     const contextValue={
         food_list,
         cartItems,
